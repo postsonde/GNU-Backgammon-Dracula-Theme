@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+GNU Backgammon Dracula Theme
+Based on the official draculatheme.com palette
+-->
+<board-designs>
+    <board-design>
+        <about>
+            <title>Dracula</title>
+            <author>Linux Community Collaboration</author>
+        </about>
+        <design>
+            board=#282A36;0.00
+            border=#44475A
+            wood=paint
+            hinges=n
+            light=0;90
+            shape=0.0
+            chequers0=#8BE9FD;1.00;1.50;0.00;20.10
+            chequers1=#FF79C6;1.00;1.50;0.00;30.00
+            dice0=#8BE9FD;0.00;30.00;n
+            dice1=#FF79C6;0.00;30.00;n
+            dot0=#282A36
+            dot1=#282A36
+            cube=#44475A
+            points0=#BD93F9;0.00
+            points1=#6272A4;0.09
+            hinges3d=n
+            piecetype=1
+            piecetexturetype=1
+            roundededges=n
+            bgintrays=y
+            roundedpoints=n
+            lighttype=p
+            lightposx=1.60 lightposy=1.60 lightposz=3.40
+            lightambient=45 lightdiffuse=70 lightspecular=100
+            chequers3d0=#8BE9FD;#6272A4;#282A36;128;100
+            chequers3d1=#FF79C6;#6272A4;#282A36;128;100
+            dice3d0=#8BE9FD;#6272A4;#282A36;100;100;n
+            dice3d1=#FF79C6;#6272A4;#282A36;70;100;n
+            dot3d0=#F8F8F2;#F8F8F2;#44475A;128;100
+            dot3d1=#F8F8F2;#F8F8F2;#44475A;128;100
+            cube3d=#44475A;#6272A4;#282A36;80;0
+            cubetext3d=#F8F8F2;#F8F8F2;#282A36;98;100
+            base3d=#282A36;#44475A;#282A36;128;0
+            points3d0=#BD93F9;#6272A4;#282A36;128;100
+            points3d1=#6272A4;#44475A;#282A36;128;100
+            border3d=#44475A;#6272A4;#282A36;128;100
+            hinge3d=#F1FA8C;#F1FA8C;#282A36;63;0
+            numbers3d=#F8F8F2;#F8F8F2;#282A36;116;100
+            background3d=#282A36;#44475A;#282A36;116;0
+        </design>
+    </board-design>
+</board-designs>
